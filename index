@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<!--Fonte que será utilizada no CSS -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap" rel="stylesheet">
+
+	<title>Aulas de HTML do DIO - Ensinamentos aplicados</title>
+</head>
+
+<body>
+	<header>
+	<h1>André Zanelato</h1>
+	<hr>
+	</header>
+
+	<h2>Índice</h2>
+	<ul>
+		<li><a href="#eu">Quem sou eu</a></li>
+		<li><a href="#jornada">Jornada</a></li>
+		<li><a href="#desafios">Próximos desafios</a></li>
+		<li><a href="#redes">Redes sociais</a></li>
+		
+    <h2 id="eu">Quem sou eu</h2>
+	<small><a href="#">(Início)</a></small>
+    <p>Sou um mochileiro novato em programação, lutando todo dia pelo <b>XP</b><sup>*</sup> necessário para subir de
+        nível como programador.</p>
+	<p>Além de estar estudando programação e trabalhando em outra área, também tenho alguns passa-tempo, como jogar no console/PC e me encontrar com meu grupo de D&D para alfumas campanhas.</p>
+    <blockquote>"Ao aplicar XP como um sistema operacional de evolução profissional, desbloqueio habilidades
+        épicas econquisto níveis de maestria no trabalho."(OPENAI, 2023)</blockquote>
+
+    <h2 id="jornada">Jornada</h2>
+	<small><a href="#">(Início)</a></small>
+    <p>Até o momento aprendi o básico de HTML5 e CSS, estou aprimorando o conhecimento em HTML, para depois aprofundar no CSS e assim que <mark><b>adquirir o XP necessário</b></mark> irei
+        iniciar os estudos de JS.</p>
+
+    <h2 id="desafios">Próximos desafios</h2>
+	<small><a href="#">(Início)</a></small>
+	<br>
+	<br>
+    <ol>
+        <li>Conseguir focar nos estudos;</li>
+        <li>Aprimorar os conhecimentos em <img width="30px"
+                src="https://img.freepik.com/icones-gratis/html-5_318-674234.jpg" alt="HTML"> e <img width="20px"
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png"
+                alt="CSS">;</li>
+        <li>Iniciar os estudos de <img width="25px"
+                src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JS">;</li>
+		<li>Estudar técnicas de estudo:
+			<ul>
+				<li>Pomodoro;</li>
+				<li>Mapa mental;</li>
+				<li>Fichamento.</li>
+			</ul>
+		</li>
+    </ol>
+
+	<h2 id="redes">Redes sociais</h2>
+	<small><a href="#">(Início)</a></small>
+	<br>
+	<br>
+	<ul>
+		<li>
+			<a href="https://www.instagram.com/andre_zanelato" target="blank" title="Me siga">Instagram</a>
+			</li>
+		<li>
+			<a href="https://www.twitch.tv/srzanelato" target="blank" title="Vem conversar um pouco comigo">Twitch</a>
+			</li>
+		<li>
+			<a href="https://www.youtube.com/@andre_zanelato" target="blank" title="Acompanhe meus conteúdos">YouTube</a>
+			</li>
+	</ul>
+
+	<div style="text-align:right">
+	<h3><a href="#">^</a></h3>
+	</div>
+	
+	<br>
+	<br>
+</body>
+<hr>
+<footer>
+    <i><sup>*</sup> XP significa "Experience Points" (Pontos de Experiência). É uma pontuação que os jogadores ganham ao
+        realizar ações dentro do jogo, permitindo que eles avancem de nível e desbloqueiem novas habilidades.</i>
+</footer>
+
+</html>
